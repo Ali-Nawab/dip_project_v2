@@ -1,0 +1,11 @@
+The previous version of handwritten digit recognition have many limitation which reduces its efficiency. In this version, 
+we will try to cover all the limitation and makes it robust.
+
+We will cover following aspects in this version:
+
+1) Algorithm can detect noisy images.
+2) Algorithm can also detect digits on RGB images.
+3) Algorithm will be trained on large number of dataset including MNIST, SVHN dataset and also include Data Augmentation. 
+We will also made some dataset by ourself to trained algorithm on it.
+4) We will also include Transfer Learning in t.
+5) Algorithm will be Robust and efficient. 
